@@ -1,0 +1,225 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PlaceMarker"
+provides-nominal:
+- "C7Venture11PlaceMarker"
+provides-member:
+- ["C7Venture11PlaceMarker", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "CGPoint"
+- !private "CLLocationCoordinate2DMake"
+- "GMSMarker"
+- "PlaceMarker"
+- !private "StringLiteralType"
+- !private "kGMSMarkerAnimationPop"
+- "Place"
+depends-member:
+- !private ["Ps9AnyObject", "CGPoint"]
+- !private ["Ps9AnyObject", "CLLocationCoordinate2DMake"]
+- !private ["Ps9AnyObject", "appearAnimation"]
+- !private ["Ps9AnyObject", "groundAnchor"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "kGMSMarkerAnimationPop"]
+- !private ["Ps9AnyObject", "lat"]
+- !private ["Ps9AnyObject", "lng"]
+- ["Ps9AnyObject", "place"]
+- !private ["Ps9AnyObject", "position"]
+- ["Ps9AnyObject", ""]
+- !private ["VSC7CGPoint", "init"]
+- !private ["Ps11CVarArgType", "CGPoint"]
+- !private ["Ps11CVarArgType", "CLLocationCoordinate2DMake"]
+- !private ["Ps11CVarArgType", "appearAnimation"]
+- !private ["Ps11CVarArgType", "groundAnchor"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "kGMSMarkerAnimationPop"]
+- ["Ps11CVarArgType", "place"]
+- !private ["Ps11CVarArgType", "position"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "CGPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "CLLocationCoordinate2DMake"]
+- !private ["Ps28CustomDebugStringConvertible", "appearAnimation"]
+- !private ["Ps28CustomDebugStringConvertible", "groundAnchor"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "kGMSMarkerAnimationPop"]
+- ["Ps28CustomDebugStringConvertible", "place"]
+- !private ["Ps28CustomDebugStringConvertible", "position"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CGPoint"]
+- !private ["Ps23CustomStringConvertible", "CLLocationCoordinate2DMake"]
+- !private ["Ps23CustomStringConvertible", "appearAnimation"]
+- !private ["Ps23CustomStringConvertible", "groundAnchor"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "kGMSMarkerAnimationPop"]
+- ["Ps23CustomStringConvertible", "place"]
+- !private ["Ps23CustomStringConvertible", "position"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CGPoint"]
+- !private ["Ps9Equatable", "CLLocationCoordinate2DMake"]
+- !private ["Ps9Equatable", "appearAnimation"]
+- !private ["Ps9Equatable", "groundAnchor"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "kGMSMarkerAnimationPop"]
+- ["Ps9Equatable", "place"]
+- !private ["Ps9Equatable", "position"]
+- ["Ps9Equatable", ""]
+- !private ["CSo9GMSMarker", "CGPoint"]
+- !private ["CSo9GMSMarker", "CLLocationCoordinate2DMake"]
+- ["CSo9GMSMarker", "Place"]
+- !private ["CSo9GMSMarker", "appearAnimation"]
+- !private ["CSo9GMSMarker", "groundAnchor"]
+- ["CSo9GMSMarker", "init"]
+- !private ["CSo9GMSMarker", "kGMSMarkerAnimationPop"]
+- ["CSo9GMSMarker", "place"]
+- !private ["CSo9GMSMarker", "position"]
+- ["CSo9GMSMarker", ""]
+- !private ["CSo10GMSOverlay", "CGPoint"]
+- !private ["CSo10GMSOverlay", "CLLocationCoordinate2DMake"]
+- ["CSo10GMSOverlay", "Place"]
+- !private ["CSo10GMSOverlay", "appearAnimation"]
+- !private ["CSo10GMSOverlay", "groundAnchor"]
+- ["CSo10GMSOverlay", "init"]
+- !private ["CSo10GMSOverlay", "kGMSMarkerAnimationPop"]
+- ["CSo10GMSOverlay", "place"]
+- !private ["CSo10GMSOverlay", "position"]
+- !private ["Ps8Hashable", "CGPoint"]
+- !private ["Ps8Hashable", "CLLocationCoordinate2DMake"]
+- !private ["Ps8Hashable", "appearAnimation"]
+- !private ["Ps8Hashable", "groundAnchor"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "kGMSMarkerAnimationPop"]
+- ["Ps8Hashable", "place"]
+- !private ["Ps8Hashable", "position"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "deinit"]
+- !private ["PSo9NSCopying", "CGPoint"]
+- !private ["PSo9NSCopying", "CLLocationCoordinate2DMake"]
+- !private ["PSo9NSCopying", "appearAnimation"]
+- !private ["PSo9NSCopying", "groundAnchor"]
+- ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "kGMSMarkerAnimationPop"]
+- ["PSo9NSCopying", "place"]
+- !private ["PSo9NSCopying", "position"]
+- ["PSo9NSCopying", ""]
+- !private ["CSo8NSObject", "CGPoint"]
+- !private ["CSo8NSObject", "CLLocationCoordinate2DMake"]
+- ["CSo8NSObject", "Place"]
+- !private ["CSo8NSObject", "appearAnimation"]
+- !private ["CSo8NSObject", "groundAnchor"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "kGMSMarkerAnimationPop"]
+- ["CSo8NSObject", "place"]
+- !private ["CSo8NSObject", "position"]
+- !private ["PSo16NSObjectProtocol", "CGPoint"]
+- !private ["PSo16NSObjectProtocol", "CLLocationCoordinate2DMake"]
+- !private ["PSo16NSObjectProtocol", "appearAnimation"]
+- !private ["PSo16NSObjectProtocol", "groundAnchor"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "kGMSMarkerAnimationPop"]
+- ["PSo16NSObjectProtocol", "place"]
+- !private ["PSo16NSObjectProtocol", "position"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["C7Venture5Place", "lat"]
+- !private ["C7Venture5Place", "lng"]
+- !private ["C7Venture11PlaceMarker", "CGPoint"]
+- !private ["C7Venture11PlaceMarker", "CLLocationCoordinate2DMake"]
+- ["C7Venture11PlaceMarker", "Place"]
+- !private ["C7Venture11PlaceMarker", "appearAnimation"]
+- ["C7Venture11PlaceMarker", "deinit"]
+- !private ["C7Venture11PlaceMarker", "groundAnchor"]
+- ["C7Venture11PlaceMarker", "init"]
+- !private ["C7Venture11PlaceMarker", "kGMSMarkerAnimationPop"]
+- ["C7Venture11PlaceMarker", "place"]
+- !private ["C7Venture11PlaceMarker", "position"]
+- !private ["Vs12StaticString", "deinit"]
+- !private ["Ps12_Reflectable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "VSC7CGPoint"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "CSo9GMSMarker"
+- "CSo10GMSOverlay"
+- "Ps8Hashable"
+- !private "Si"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "C7Venture5Place"
+- "C7Venture11PlaceMarker"
+- !private "Vs12StaticString"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSURLTileLayer.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSTileLayer.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSSyncTileLayer.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSServices.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPolyline.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPolygon.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlaceTypes.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSUserAddedPlace.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacesErrors.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacesClient.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacePickerConfig.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacePicker.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacePhotoMetadataList.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacePhotoMetadata.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlaceLikelihoodList.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlaceLikelihood.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaView.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaService.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaLink.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaLayer.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaCameraUpdate.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaCamera.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanorama.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSOrientation.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMutablePath.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMarkerLayer.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMarker.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSUISettings.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapView.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapView+Animation.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapLayer.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSIndoorLevel.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSIndoorDisplay.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSIndoorBuilding.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSGroundOverlay.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPath.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSGeometryUtils.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSGeocoder.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSOverlay.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCircle.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCameraUpdate.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCameraPosition.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCALayer.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompleteViewController.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompleteTableDataSource.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlace.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompleteResultsViewController.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompletePrediction.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompleteMatchFragment.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompleteFilter.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSProjection.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCoordinateBounds.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompleteFetcher.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAddressComponent.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSDeprecationMacros.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCompatabilityMacros.h"
+- "/Users/Kelly/Desktop/Venture/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAddress.h"
+- "/Users/Kelly/Desktop/Venture/Pods/GoogleMaps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/Kelly/Desktop/Venture/Pods/GoogleMaps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+interface-hash: "c4113155df1e58ac3663bdb686adcba5"

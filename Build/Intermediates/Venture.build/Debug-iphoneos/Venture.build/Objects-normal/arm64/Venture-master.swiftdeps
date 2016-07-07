@@ -1,0 +1,14 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "42ca32d56979f1695e12dd347a44f733"
+build_time: [517826936, 35400000]
+inputs:
+  "/Users/Kelly/Desktop/Venture/Venture/ItineraryTableViewController.swift": [517825928, 0]
+  "/Users/Kelly/Desktop/Venture/Venture/PlaceMarker.swift": [517826254, 0]
+  "/Users/Kelly/Desktop/Venture/Venture/GoogleAPIWrapper.swift": [517825743, 0]
+  "/Users/Kelly/Desktop/Venture/Venture/LocationsTableViewController.swift": [517825861, 0]
+  "/Users/Kelly/Desktop/Venture/Venture/MapViewController.swift": [517825520, 0]
+  "/Users/Kelly/Desktop/Venture/Venture/Place.swift": [517825760, 0]
+  "/Users/Kelly/Desktop/Venture/Venture/Indexable.swift": [517825689, 0]
+  "/Users/Kelly/Desktop/Venture/Venture/AppDelegate.swift": [517826930, 0]
+  "/Users/Kelly/Desktop/Venture/Venture/SwitchPageViewController.swift": [517825657, 0]
+  "/Users/Kelly/Desktop/Venture/Venture/SettingsViewController.swift": [517825716, 0]

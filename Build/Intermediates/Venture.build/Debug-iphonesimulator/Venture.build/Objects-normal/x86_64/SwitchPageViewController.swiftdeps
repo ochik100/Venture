@@ -1,0 +1,478 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SwitchPageViewController"
+provides-nominal:
+- "C7Venture24SwitchPageViewController"
+provides-member:
+- ["C7Venture24SwitchPageViewController", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+- "pageViewController"
+- "pageViewController"
+- "PLAN_ID"
+- "MAP_ID"
+- "LIST_ID"
+depends-top-level:
+- !private "BooleanLiteralType"
+- "UIPageViewController"
+- !private "Indexable"
+- "UIPageViewControllerDataSource"
+- "UIViewController"
+- "SwitchPageViewController"
+- "StringLiteralType"
+- !private "Array"
+- "String"
+- !private "~="
+depends-member:
+- ["Ps9AnyObject", "LIST_ID"]
+- ["Ps9AnyObject", "MAP_ID"]
+- ["Ps9AnyObject", "PLAN_ID"]
+- !private ["Ps9AnyObject", "dataSource"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "instantiateViewControllerWithIdentifier"]
+- ["Ps9AnyObject", "pageViewController"]
+- ["Ps9AnyObject", "presentationCountForPageViewController"]
+- ["Ps9AnyObject", "presentationIndexForPageViewController"]
+- !private ["Ps9AnyObject", "setViewControllers"]
+- !private ["Ps9AnyObject", "storyboard"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "Element"]
+- !private ["Ps23ArrayLiteralConvertible", "Element"]
+- !private ["Ps22BidirectionalIndexType", "Distance"]
+- !private ["Ps22BidirectionalIndexType", "IntegerLiteralType"]
+- !private ["Ps21BitwiseOperationsType", "Distance"]
+- !private ["Ps21BitwiseOperationsType", "IntegerLiteralType"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["Ps11CVarArgType", "Distance"]
+- !private ["Ps11CVarArgType", "IntegerLiteralType"]
+- ["Ps11CVarArgType", "LIST_ID"]
+- ["Ps11CVarArgType", "MAP_ID"]
+- ["Ps11CVarArgType", "PLAN_ID"]
+- !private ["Ps11CVarArgType", "dataSource"]
+- ["Ps11CVarArgType", "didReceiveMemoryWarning"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "instantiateViewControllerWithIdentifier"]
+- ["Ps11CVarArgType", "pageViewController"]
+- ["Ps11CVarArgType", "presentationCountForPageViewController"]
+- ["Ps11CVarArgType", "presentationIndexForPageViewController"]
+- !private ["Ps11CVarArgType", "setViewControllers"]
+- !private ["Ps11CVarArgType", "storyboard"]
+- ["Ps11CVarArgType", "viewDidLoad"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps14CollectionType", "Element"]
+- !private ["Ps10Comparable", "Distance"]
+- !private ["Ps10Comparable", "IntegerLiteralType"]
+- !private ["Ps28CustomDebugStringConvertible", "Element"]
+- ["Ps28CustomDebugStringConvertible", "LIST_ID"]
+- ["Ps28CustomDebugStringConvertible", "MAP_ID"]
+- ["Ps28CustomDebugStringConvertible", "PLAN_ID"]
+- !private ["Ps28CustomDebugStringConvertible", "dataSource"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "instantiateViewControllerWithIdentifier"]
+- ["Ps28CustomDebugStringConvertible", "pageViewController"]
+- ["Ps28CustomDebugStringConvertible", "presentationCountForPageViewController"]
+- ["Ps28CustomDebugStringConvertible", "presentationIndexForPageViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "setViewControllers"]
+- !private ["Ps28CustomDebugStringConvertible", "storyboard"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "Distance"]
+- !private ["Ps23CustomStringConvertible", "Element"]
+- !private ["Ps23CustomStringConvertible", "IntegerLiteralType"]
+- ["Ps23CustomStringConvertible", "LIST_ID"]
+- ["Ps23CustomStringConvertible", "MAP_ID"]
+- ["Ps23CustomStringConvertible", "PLAN_ID"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "dataSource"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "instantiateViewControllerWithIdentifier"]
+- ["Ps23CustomStringConvertible", "pageViewController"]
+- ["Ps23CustomStringConvertible", "presentationCountForPageViewController"]
+- ["Ps23CustomStringConvertible", "presentationIndexForPageViewController"]
+- !private ["Ps23CustomStringConvertible", "setViewControllers"]
+- !private ["Ps23CustomStringConvertible", "storyboard"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "Distance"]
+- !private ["Ps9Equatable", "Forward"]
+- !private ["Ps9Equatable", "IntegerLiteralType"]
+- ["Ps9Equatable", "LIST_ID"]
+- ["Ps9Equatable", "MAP_ID"]
+- ["Ps9Equatable", "PLAN_ID"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "dataSource"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "instantiateViewControllerWithIdentifier"]
+- ["Ps9Equatable", "pageViewController"]
+- ["Ps9Equatable", "presentationCountForPageViewController"]
+- ["Ps9Equatable", "presentationIndexForPageViewController"]
+- !private ["Ps9Equatable", "setViewControllers"]
+- !private ["Ps9Equatable", "storyboard"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps16ForwardIndexType", "Distance"]
+- !private ["Ps16ForwardIndexType", "IntegerLiteralType"]
+- !private ["Ps8Hashable", "Distance"]
+- !private ["Ps8Hashable", "Forward"]
+- !private ["Ps8Hashable", "IntegerLiteralType"]
+- ["Ps8Hashable", "LIST_ID"]
+- ["Ps8Hashable", "MAP_ID"]
+- ["Ps8Hashable", "PLAN_ID"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "dataSource"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "instantiateViewControllerWithIdentifier"]
+- ["Ps8Hashable", "pageViewController"]
+- ["Ps8Hashable", "presentationCountForPageViewController"]
+- ["Ps8Hashable", "presentationIndexForPageViewController"]
+- !private ["Ps8Hashable", "setViewControllers"]
+- !private ["Ps8Hashable", "storyboard"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["P7Venture9Indexable", "index"]
+- !private ["Ps9Indexable", "Element"]
+- !private ["Si", "Distance"]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Si", "deinit"]
+- !private ["Ps21IntegerArithmeticType", "Distance"]
+- !private ["Ps21IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps25IntegerLiteralConvertible", "Distance"]
+- !private ["Ps25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps11IntegerType", "Distance"]
+- !private ["Ps11IntegerType", "IntegerLiteralType"]
+- !private ["Ps14MirrorPathType", "Distance"]
+- !private ["Ps14MirrorPathType", "IntegerLiteralType"]
+- !private ["Ps21MutableCollectionType", "Element"]
+- !private ["Ps16MutableIndexable", "Element"]
+- !private ["Ps16MutableSliceable", "Element"]
+- ["PSo8NSCoding", "LIST_ID"]
+- ["PSo8NSCoding", "MAP_ID"]
+- ["PSo8NSCoding", "PLAN_ID"]
+- !private ["PSo8NSCoding", "dataSource"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "pageViewController"]
+- ["PSo8NSCoding", "presentationCountForPageViewController"]
+- ["PSo8NSCoding", "presentationIndexForPageViewController"]
+- !private ["PSo8NSCoding", "setViewControllers"]
+- !private ["PSo8NSCoding", "storyboard"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "LIST_ID"]
+- ["PSo26NSExtensionRequestHandling", "MAP_ID"]
+- ["PSo26NSExtensionRequestHandling", "PLAN_ID"]
+- !private ["PSo26NSExtensionRequestHandling", "dataSource"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "pageViewController"]
+- ["PSo26NSExtensionRequestHandling", "presentationCountForPageViewController"]
+- ["PSo26NSExtensionRequestHandling", "presentationIndexForPageViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "setViewControllers"]
+- !private ["PSo26NSExtensionRequestHandling", "storyboard"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["CSo8NSNumber", "deinit"]
+- !private ["CSo8NSObject", "Indexable"]
+- ["CSo8NSObject", "LIST_ID"]
+- ["CSo8NSObject", "MAP_ID"]
+- ["CSo8NSObject", "PLAN_ID"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UIPageViewController"]
+- ["CSo8NSObject", "UIViewController"]
+- !private ["CSo8NSObject", "dataSource"]
+- !private ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "instantiateViewControllerWithIdentifier"]
+- ["CSo8NSObject", "pageViewController"]
+- ["CSo8NSObject", "presentationCountForPageViewController"]
+- ["CSo8NSObject", "presentationIndexForPageViewController"]
+- !private ["CSo8NSObject", "setViewControllers"]
+- !private ["CSo8NSObject", "storyboard"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "LIST_ID"]
+- ["PSo16NSObjectProtocol", "MAP_ID"]
+- ["PSo16NSObjectProtocol", "PLAN_ID"]
+- !private ["PSo16NSObjectProtocol", "dataSource"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "instantiateViewControllerWithIdentifier"]
+- ["PSo16NSObjectProtocol", "pageViewController"]
+- ["PSo16NSObjectProtocol", "presentationCountForPageViewController"]
+- ["PSo16NSObjectProtocol", "presentationIndexForPageViewController"]
+- !private ["PSo16NSObjectProtocol", "setViewControllers"]
+- !private ["PSo16NSObjectProtocol", "storyboard"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["CSo7NSValue", "deinit"]
+- !private ["Sq", "deinit"]
+- !private ["Ps21RandomAccessIndexType", "Distance"]
+- !private ["Ps21RandomAccessIndexType", "IntegerLiteralType"]
+- !private ["Vs5Range", "deinit"]
+- !private ["Ps30RangeReplaceableCollectionType", "Element"]
+- !private ["Ps16RawRepresentable", "Forward"]
+- !private ["Ps12SequenceType", "Element"]
+- !private ["Ps17SignedIntegerType", "Distance"]
+- !private ["Ps17SignedIntegerType", "IntegerLiteralType"]
+- !private ["Ps16SignedNumberType", "Distance"]
+- !private ["Ps16SignedNumberType", "IntegerLiteralType"]
+- !private ["Ps10Strideable", "Distance"]
+- !private ["Ps10Strideable", "IntegerLiteralType"]
+- !private ["C7Venture24SwitchPageViewController", "Indexable"]
+- ["C7Venture24SwitchPageViewController", "LIST_ID"]
+- ["C7Venture24SwitchPageViewController", "MAP_ID"]
+- ["C7Venture24SwitchPageViewController", "PLAN_ID"]
+- ["C7Venture24SwitchPageViewController", "String"]
+- ["C7Venture24SwitchPageViewController", "UIPageViewController"]
+- ["C7Venture24SwitchPageViewController", "UIViewController"]
+- !private ["C7Venture24SwitchPageViewController", "dataSource"]
+- ["C7Venture24SwitchPageViewController", "deinit"]
+- ["C7Venture24SwitchPageViewController", "didReceiveMemoryWarning"]
+- ["C7Venture24SwitchPageViewController", "init"]
+- ["C7Venture24SwitchPageViewController", "pageViewController"]
+- ["C7Venture24SwitchPageViewController", "presentationCountForPageViewController"]
+- ["C7Venture24SwitchPageViewController", "presentationIndexForPageViewController"]
+- !private ["C7Venture24SwitchPageViewController", "setViewControllers"]
+- !private ["C7Venture24SwitchPageViewController", "storyboard"]
+- ["C7Venture24SwitchPageViewController", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", "LIST_ID"]
+- ["PSo21UIAppearanceContainer", "MAP_ID"]
+- ["PSo21UIAppearanceContainer", "PLAN_ID"]
+- !private ["PSo21UIAppearanceContainer", "dataSource"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "pageViewController"]
+- ["PSo21UIAppearanceContainer", "presentationCountForPageViewController"]
+- ["PSo21UIAppearanceContainer", "presentationIndexForPageViewController"]
+- !private ["PSo21UIAppearanceContainer", "setViewControllers"]
+- !private ["PSo21UIAppearanceContainer", "storyboard"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "LIST_ID"]
+- ["PSo18UIContentContainer", "MAP_ID"]
+- ["PSo18UIContentContainer", "PLAN_ID"]
+- !private ["PSo18UIContentContainer", "dataSource"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "pageViewController"]
+- ["PSo18UIContentContainer", "presentationCountForPageViewController"]
+- ["PSo18UIContentContainer", "presentationIndexForPageViewController"]
+- !private ["PSo18UIContentContainer", "setViewControllers"]
+- !private ["PSo18UIContentContainer", "storyboard"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "LIST_ID"]
+- ["PSo18UIFocusEnvironment", "MAP_ID"]
+- ["PSo18UIFocusEnvironment", "PLAN_ID"]
+- !private ["PSo18UIFocusEnvironment", "dataSource"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "pageViewController"]
+- ["PSo18UIFocusEnvironment", "presentationCountForPageViewController"]
+- ["PSo18UIFocusEnvironment", "presentationIndexForPageViewController"]
+- !private ["PSo18UIFocusEnvironment", "setViewControllers"]
+- !private ["PSo18UIFocusEnvironment", "storyboard"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo20UIPageViewController", "Indexable"]
+- ["CSo20UIPageViewController", "LIST_ID"]
+- ["CSo20UIPageViewController", "MAP_ID"]
+- ["CSo20UIPageViewController", "PLAN_ID"]
+- ["CSo20UIPageViewController", "String"]
+- ["CSo20UIPageViewController", "UIPageViewController"]
+- ["CSo20UIPageViewController", "UIViewController"]
+- !private ["CSo20UIPageViewController", "dataSource"]
+- ["CSo20UIPageViewController", "didReceiveMemoryWarning"]
+- ["CSo20UIPageViewController", "init"]
+- ["CSo20UIPageViewController", "pageViewController"]
+- ["CSo20UIPageViewController", "presentationCountForPageViewController"]
+- ["CSo20UIPageViewController", "presentationIndexForPageViewController"]
+- !private ["CSo20UIPageViewController", "setViewControllers"]
+- !private ["CSo20UIPageViewController", "storyboard"]
+- ["CSo20UIPageViewController", "viewDidLoad"]
+- ["CSo20UIPageViewController", ""]
+- !private ["PSo30UIPageViewControllerDataSource", "LIST_ID"]
+- !private ["PSo30UIPageViewControllerDataSource", "MAP_ID"]
+- !private ["PSo30UIPageViewControllerDataSource", "PLAN_ID"]
+- !private ["PSo30UIPageViewControllerDataSource", "dataSource"]
+- ["PSo30UIPageViewControllerDataSource", "pageViewController"]
+- ["PSo30UIPageViewControllerDataSource", "presentationCountForPageViewController"]
+- ["PSo30UIPageViewControllerDataSource", "presentationIndexForPageViewController"]
+- !private ["PSo30UIPageViewControllerDataSource", "setViewControllers"]
+- !private ["PSo30UIPageViewControllerDataSource", "storyboard"]
+- ["PSo30UIPageViewControllerDataSource", ""]
+- !private ["OSC39UIPageViewControllerNavigationDirection", "Forward"]
+- !private ["CSo11UIResponder", "Indexable"]
+- ["CSo11UIResponder", "LIST_ID"]
+- ["CSo11UIResponder", "MAP_ID"]
+- ["CSo11UIResponder", "PLAN_ID"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UIPageViewController"]
+- ["CSo11UIResponder", "UIViewController"]
+- !private ["CSo11UIResponder", "dataSource"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "pageViewController"]
+- ["CSo11UIResponder", "presentationCountForPageViewController"]
+- ["CSo11UIResponder", "presentationIndexForPageViewController"]
+- !private ["CSo11UIResponder", "setViewControllers"]
+- !private ["CSo11UIResponder", "storyboard"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "LIST_ID"]
+- ["PSo16UIStateRestoring", "MAP_ID"]
+- ["PSo16UIStateRestoring", "PLAN_ID"]
+- !private ["PSo16UIStateRestoring", "dataSource"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "pageViewController"]
+- ["PSo16UIStateRestoring", "presentationCountForPageViewController"]
+- ["PSo16UIStateRestoring", "presentationIndexForPageViewController"]
+- !private ["PSo16UIStateRestoring", "setViewControllers"]
+- !private ["PSo16UIStateRestoring", "storyboard"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo12UIStoryboard", "instantiateViewControllerWithIdentifier"]
+- ["PSo18UITraitEnvironment", "LIST_ID"]
+- ["PSo18UITraitEnvironment", "MAP_ID"]
+- ["PSo18UITraitEnvironment", "PLAN_ID"]
+- !private ["PSo18UITraitEnvironment", "dataSource"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "pageViewController"]
+- ["PSo18UITraitEnvironment", "presentationCountForPageViewController"]
+- ["PSo18UITraitEnvironment", "presentationIndexForPageViewController"]
+- !private ["PSo18UITraitEnvironment", "setViewControllers"]
+- !private ["PSo18UITraitEnvironment", "storyboard"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo16UIViewController", "Indexable"]
+- ["CSo16UIViewController", "LIST_ID"]
+- ["CSo16UIViewController", "MAP_ID"]
+- ["CSo16UIViewController", "PLAN_ID"]
+- ["CSo16UIViewController", "String"]
+- ["CSo16UIViewController", "UIPageViewController"]
+- ["CSo16UIViewController", "UIViewController"]
+- !private ["CSo16UIViewController", "dataSource"]
+- !private ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "pageViewController"]
+- ["CSo16UIViewController", "presentationCountForPageViewController"]
+- ["CSo16UIViewController", "presentationIndexForPageViewController"]
+- !private ["CSo16UIViewController", "setViewControllers"]
+- !private ["CSo16UIViewController", "storyboard"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["Ps10_ArrayType", "Element"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "Distance"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps24_DestructorSafeContainer", "Element"]
+- !private ["Ps14_Incrementable", "Distance"]
+- !private ["Ps14_Incrementable", "IntegerLiteralType"]
+- !private ["Ps22_IntegerArithmeticType", "Distance"]
+- !private ["Ps22_IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps12_IntegerType", "Distance"]
+- !private ["Ps12_IntegerType", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "Distance"]
+- !private ["Ps21_ObjectiveCBridgeable", "Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+- !private ["Ps22_RandomAccessAmbiguity", "Distance"]
+- !private ["Ps22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "Distance"]
+- !private ["Ps12_Reflectable", "Element"]
+- !private ["Ps12_Reflectable", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps18_SignedIntegerType", "Distance"]
+- !private ["Ps18_SignedIntegerType", "IntegerLiteralType"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23ArrayLiteralConvertible"
+- !private "Ps22BidirectionalIndexType"
+- !private "Ps21BitwiseOperationsType"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- "Ps11CVarArgType"
+- !private "Ps14CollectionType"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps16ForwardIndexType"
+- "Ps8Hashable"
+- !private "P7Venture9Indexable"
+- !private "Ps9Indexable"
+- !private "Si"
+- !private "Ps21IntegerArithmeticType"
+- !private "Ps25IntegerLiteralConvertible"
+- !private "Ps11IntegerType"
+- !private "Ps14MirrorPathType"
+- !private "Ps21MutableCollectionType"
+- !private "Ps16MutableIndexable"
+- !private "Ps16MutableSliceable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- !private "CSo8NSNumber"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "CSo7NSValue"
+- !private "Sq"
+- !private "Ps21RandomAccessIndexType"
+- !private "Vs5Range"
+- !private "Ps30RangeReplaceableCollectionType"
+- !private "Ps16RawRepresentable"
+- !private "Ps12SequenceType"
+- !private "Ps17SignedIntegerType"
+- !private "Ps16SignedNumberType"
+- !private "Ps10Strideable"
+- "C7Venture24SwitchPageViewController"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo20UIPageViewController"
+- "PSo30UIPageViewControllerDataSource"
+- !private "OSC39UIPageViewControllerNavigationDirection"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- !private "CSo12UIStoryboard"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- !private "Ps10_ArrayType"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps33_BuiltinIntegerLiteralConvertible"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps14_Incrementable"
+- !private "Ps22_IntegerArithmeticType"
+- !private "Ps12_IntegerType"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+- !private "Ps22_RandomAccessAmbiguity"
+- !private "Ps12_Reflectable"
+- !private "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+interface-hash: "540166ad0db56df8e4657638e098f54a"
